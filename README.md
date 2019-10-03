@@ -1,6 +1,6 @@
 # Tkinter projects
 
-Projetos emm python com a biblioteca tkinter
+Projetos em python com a biblioteca tkinter
 
 ## Observação:
 - Python 3.7
